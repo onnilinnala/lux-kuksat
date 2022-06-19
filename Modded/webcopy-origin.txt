@@ -1,0 +1,664 @@
+Uri: https://back.ww-cdn.com/apiv3/cdn/2740832/apiv3/colorImage/?seek=L2Fzc2V0cy9nYmljb24vaW1nL3YxLzEzMC8zNjAucG5nLCNGRkZGRkYsdW5kZWZpbmVkLDE=&v=1655542048
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\apiv3\cdn\2740832\apiv3\colorImage\index.htm
+Content Type: image/png
+
+Uri: https://back.ww-cdn.com/apiv3/cdn/2740832/apiv3/icons/color/38635123.png?v=1655542048
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\apiv3\cdn\2740832\apiv3\icons\color\38635123.png
+Content Type: image/png
+
+Uri: https://back.ww-cdn.com/apiv3/cdn/2740832/apiv3/icons/color/38998283.png?v=1655542048
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\apiv3\cdn\2740832\apiv3\icons\color\38998283.png
+Content Type: image/png
+
+Uri: https://back.ww-cdn.com/apiv3/cdn/2740832/apiv3/release/iphone/10/photo/meta_images_touchIcon@2x.png?v=1649788628
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\apiv3\cdn\2740832\apiv3\release\iphone\10\photo\meta_images_touchIcon@2x.png
+Content Type: image/png
+
+Uri: https://back.ww-cdn.com/apiv3/cdn/2740832/apiv3/release/iphone/10/photo/navBar_titleImage@iphone6plus.png?v=1651151721
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\apiv3\cdn\2740832\apiv3\release\iphone\10\photo\navBar_titleImage@iphone6plus.png
+Content Type: image/png
+
+Uri: https://back.ww-cdn.com/assets/fonts/AmericanTypewriterCondensedBold.eot
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\AmericanTypewriterCondensedBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/AmericanTypewriterCondensedBold.eot?
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\AmericanTypewriterCondensedBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/AmericanTypewriterCondensedBold.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\AmericanTypewriterCondensedBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://back.ww-cdn.com/assets/fonts/AmericanTypewriterMedium.eot
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\AmericanTypewriterMedium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/AmericanTypewriterMedium.eot?
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\AmericanTypewriterMedium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/AmericanTypewriterMedium.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\AmericanTypewriterMedium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://back.ww-cdn.com/assets/fonts/Amiri.eot
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\Amiri.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/Amiri.eot?
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\Amiri-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/Amiri.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\Amiri.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://back.ww-cdn.com/assets/fonts/CourierBold.eot
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\CourierBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/CourierBold.eot?
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\CourierBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/CourierBold.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\CourierBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://back.ww-cdn.com/assets/fonts/Droid.eot
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\Droid.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/Droid.eot?
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\Droid-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/Droid.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\Droid.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://back.ww-cdn.com/assets/fonts/DroidKufi.eot
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\DroidKufi.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/DroidKufi.eot?
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\DroidKufi-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/DroidKufi.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\DroidKufi.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://back.ww-cdn.com/assets/fonts/Futura.eot
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\Futura.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/Futura.eot?
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\Futura-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/Futura.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\Futura.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://back.ww-cdn.com/assets/fonts/GillSans.eot
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\GillSans.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/GillSans.eot?
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\GillSans-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/GillSans.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\GillSans.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://back.ww-cdn.com/assets/fonts/GillSansBold.eot
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\GillSansBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/GillSansBold.eot?
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\GillSansBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/GillSansBold.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\GillSansBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://back.ww-cdn.com/assets/fonts/HelveticaNeue.eot
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\HelveticaNeue.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/HelveticaNeue.eot?
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\HelveticaNeue-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/HelveticaNeue.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\HelveticaNeue.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://back.ww-cdn.com/assets/fonts/HelveticaNeueCondensedBold.eot
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\HelveticaNeueCondensedBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/HelveticaNeueCondensedBold.eot?
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\HelveticaNeueCondensedBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/HelveticaNeueCondensedBold.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\HelveticaNeueCondensedBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://back.ww-cdn.com/assets/fonts/HelveticaNeueLight.eot
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\HelveticaNeueLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/HelveticaNeueLight.eot?
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\HelveticaNeueLight-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/HelveticaNeueLight.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\HelveticaNeueLight.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://back.ww-cdn.com/assets/fonts/HelveticaNeueMedium.eot
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\HelveticaNeueMedium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/HelveticaNeueMedium.eot?
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\HelveticaNeueMedium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/HelveticaNeueMedium.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\HelveticaNeueMedium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://back.ww-cdn.com/assets/fonts/HelveticaNeueUltraLight.eot
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\HelveticaNeueUltraLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/HelveticaNeueUltraLight.eot?
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\HelveticaNeueUltraLight-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/HelveticaNeueUltraLight.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\HelveticaNeueUltraLight.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://back.ww-cdn.com/assets/fonts/Hoefler.eot
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\Hoefler.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/Hoefler.eot?
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\Hoefler-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/Hoefler.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\Hoefler.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://back.ww-cdn.com/assets/fonts/HoeflerBoldItalic.eot
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\HoeflerBoldItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/HoeflerBoldItalic.eot?
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\HoeflerBoldItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/HoeflerBoldItalic.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\HoeflerBoldItalic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://back.ww-cdn.com/assets/fonts/MarathiVakra.eot
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\MarathiVakra.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/MarathiVakra.eot?
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\MarathiVakra-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/MarathiVakra.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\MarathiVakra.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://back.ww-cdn.com/assets/fonts/NotoSansHebrew.eot
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\NotoSansHebrew.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/NotoSansHebrew.eot?
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\NotoSansHebrew-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/NotoSansHebrew.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\NotoSansHebrew.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://back.ww-cdn.com/assets/fonts/Segoe.eot
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\Segoe.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/Segoe.eot?
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\Segoe-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://back.ww-cdn.com/assets/fonts/Segoe.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\assets\fonts\Segoe.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://back.ww-cdn.com/superstatic/front-res/2740832/front-assets/img/transparent.png
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\superstatic\front-res\2740832\front-assets\img\transparent.png
+Content Type: image/png
+
+Uri: https://back.ww-cdn.com/superstatic/front-res/2740832/front-css/styles.942dbd46f71d1dfa1af3.css
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\superstatic\front-res\2740832\front-css\styles.942dbd46f71d1dfa1af3.css
+Content Type: text/css
+
+Uri: https://back.ww-cdn.com/superstatic/front-res/2740832/front-js/main-es2015.b344259e61c6ccb59646.js
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\superstatic\front-res\2740832\front-js\main-es2015.b344259e61c6ccb59646.js
+Content Type: application/javascript
+
+Uri: https://back.ww-cdn.com/superstatic/front-res/2740832/front-js/main-es5.b344259e61c6ccb59646.js
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\superstatic\front-res\2740832\front-js\main-es5.b344259e61c6ccb59646.js
+Content Type: application/javascript
+
+Uri: https://back.ww-cdn.com/superstatic/front-res/2740832/front-js/polyfills-es2015.187f90457f2fea891270.js
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\superstatic\front-res\2740832\front-js\polyfills-es2015.187f90457f2fea891270.js
+Content Type: application/javascript
+
+Uri: https://back.ww-cdn.com/superstatic/front-res/2740832/front-js/polyfills-es5.187f90457f2fea891270.js
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\superstatic\front-res\2740832\front-js\polyfills-es5.187f90457f2fea891270.js
+Content Type: application/javascript
+
+Uri: https://back.ww-cdn.com/superstatic/front-res/2740832/front-js/polyfills-es5.8bdb0dce20a5316bb235.js
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\superstatic\front-res\2740832\front-js\polyfills-es5.8bdb0dce20a5316bb235.js
+Content Type: application/javascript
+
+Uri: https://back.ww-cdn.com/superstatic/front-res/2740832/front-js/runtime-es2015.7c616ec6b8616b9242c3.js
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\superstatic\front-res\2740832\front-js\runtime-es2015.7c616ec6b8616b9242c3.js
+Content Type: application/javascript
+
+Uri: https://back.ww-cdn.com/superstatic/front-res/2740832/front-js/runtime-es5.7c616ec6b8616b9242c3.js
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\superstatic\front-res\2740832\front-js\runtime-es5.7c616ec6b8616b9242c3.js
+Content Type: application/javascript
+
+Uri: https://cdn.ampproject.org/v0.js
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\v0.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-audio-0.1.js
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\v0\amp-audio-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-bind-0.1.js
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\v0\amp-bind-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-carousel-0.1.js
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\v0\amp-carousel-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-form-0.1.js
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\v0\amp-form-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-iframe-0.1.js
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\v0\amp-iframe-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-image-lightbox-0.1.js
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\v0\amp-image-lightbox-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-install-serviceworker-0.1.js
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\v0\amp-install-serviceworker-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-lightbox-0.1.js
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\v0\amp-lightbox-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-social-share-0.1.js
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\v0\amp-social-share-0.1.js
+Content Type: text/javascript
+
+Uri: https://cmsphoto.ww-cdn.com/superstatic/2740832/art/default/65194518-46634596.jpg?v=1654965643
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\superstatic\2740832\art\default\65194518-46634596.jpg
+Content Type: image/jpeg
+
+Uri: https://cmsphoto.ww-cdn.com/superstatic/2740832/art/grande/65194518-46634596.jpg?v=1654965641
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\superstatic\2740832\art\grande\65194518-46634596.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css2?family=Barlow:wght@300;700&display=swap
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Barlow:700|Barlow:800|Barlow&display=swap
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Barlow:800|Barlow|Barlow:700&display=swap
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHpv4kjgoGqM7E_DMs8.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\s\barlow\v12\7cHpv4kjgoGqM7E_DMs8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3p-kc4A.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\s\barlow\v12\7cHqv4kjgoGqM7E3p-kc4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3q-0s51op.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\s\barlow\v12\7cHqv4kjgoGqM7E3q-0s51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3t-4c4A.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\s\barlow\v12\7cHqv4kjgoGqM7E3t-4c4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3t-4s51op.ttf
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\s\barlow\v12\7cHqv4kjgoGqM7E3t-4s51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialicons/v130/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.woff
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\s\materialicons\v130\flUhRq6tzZclQEJ-Vdg-IuiaDsNa.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/materialicons/v130/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\s\materialicons\v130\flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxM.woff
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxM.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\s\roboto\v30\KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\s\roboto\v30\KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\s\roboto\v30\KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\s\roboto\v30\KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\s\roboto\v30\KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://partio.coregoapp.com/
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\index.htm
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/amp/kaupat-ja-kahvilat/c/0/i/65194473/myymala
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\amp\kaupat-ja-kahvilat\c\0\i\65194473\myymala.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/amp/kaupat-ja-kahvilat/c/0/i/65194518/hohde
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\amp\kaupat-ja-kahvilat\c\0\i\65194518\hohde.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/amp/kaupat-ja-kahvilat/c/0/i/65317960/johtajakahvila-lyhty-tilhi
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\amp\kaupat-ja-kahvilat\c\0\i\65317960\johtajakahvila-lyhty-tilhi.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/amp/ohjelma/c/0/i/65385392/saavutettavuuden-savu
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\amp\ohjelma\c\0\i\65385392\saavutettavuuden-savu.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/amp/ohjelma/c/0/i/65385502/katsomus-kajolla
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\amp\ohjelma\c\0\i\65385502\katsomus-kajolla.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/amp/ohjelma/c/0/i/65385824/kajoakatemia-osaaminen-kajolla
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\amp\ohjelma\c\0\i\65385824\kajoakatemia-osaaminen-kajolla.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/amp/ohjelma/c/0/i/65386080/ohjelmaa-alle-12-vuotiaille
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\amp\ohjelma\c\0\i\65386080\ohjelmaa-alle-12-vuotiaille.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/amp/yleista/c/0/i/65360890/vierailupaiva-infoa-leirilaiselle
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\amp\yleista\c\0\i\65360890\vierailupaiva-infoa-leirilaiselle.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/apiv3/getLanguage
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\apiv3\getLanguage
+Content Type: application/json
+
+Uri: https://partio.coregoapp.com/apiv3/release/iphone/10/section/48161205/index.html?v=1649789675&define_function=1
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\apiv3\release\iphone\10\section\48161205\index.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/apiv3/release/iphone/10/section/49215117/arrow.svg
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\apiv3\release\iphone\10\section\49215117\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://partio.coregoapp.com/apiv3/release/iphone/10/section/49215117/GBJSTK.js
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\apiv3\release\iphone\10\section\49215117\GBJSTK.js
+Content Type: text/javascript
+
+Uri: https://partio.coregoapp.com/apiv3/release/iphone/10/section/49215117/index.html?v=1652815254&define_function=1
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\apiv3\release\iphone\10\section\49215117\index.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/apiv3/release/iphone/10/section/49215117/mobile_scripts.js
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\apiv3\release\iphone\10\section\49215117\mobile_scripts.js
+Content Type: text/javascript
+
+Uri: https://partio.coregoapp.com/apiv3/release/iphone/10/section/49215117/style.css
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\apiv3\release\iphone\10\section\49215117\style.css
+Content Type: text/css
+
+Uri: https://partio.coregoapp.com/apiv3/release/iphone/10/section/49215117/test_scripts.js
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\apiv3\release\iphone\10\section\49215117\test_scripts.js
+Content Type: text/javascript
+
+Uri: https://partio.coregoapp.com/apiv4/getSettings?platform=webapp
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\apiv4\getSettings
+Content Type: application/json
+
+Uri: https://partio.coregoapp.com/front-assets/ie-polyfills.min.js
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\front-assets\ie-polyfills.min.js
+Content Type: application/javascript
+
+Uri: https://partio.coregoapp.com/front-assets/manifest.json
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\front-assets\manifest.json
+Content Type: application/json
+
+Uri: https://partio.coregoapp.com/front-css/front-assets/img/touch-cursor.263ea981942e9ea3066e.png
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\front-css\front-assets\img\touch-cursor.263ea981942e9ea3066e.png.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/front-css/front-assets/img/touch-cursor@2x.d06388ab1920e125f66a.png
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\front-css\front-assets\img\touch-cursor@2x.d06388ab1920e125f66a.png.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/front-css/styles.942dbd46f71d1dfa1af3.css
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\front-css\styles.942dbd46f71d1dfa1af3.css
+Content Type: text/css
+
+Uri: https://partio.coregoapp.com/kaupat-ja-kahvilat
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\kaupat-ja-kahvilat.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/kaupat-ja-kahvilat/c/0
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\kaupat-ja-kahvilat\c\0.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/kaupat-ja-kahvilat/c/0/i/64623816/kopio-sade
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\kaupat-ja-kahvilat\c\0\i\64623816\kopio-sade.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/kaupat-ja-kahvilat/c/0/i/65194473/myymala
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\kaupat-ja-kahvilat\c\0\i\65194473\myymala.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/kaupat-ja-kahvilat/c/0/i/65194518/hohde
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\kaupat-ja-kahvilat\c\0\i\65194518\hohde.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/kaupat-ja-kahvilat/c/0/i/65317960/johtajakahvila-lyhty-tilhi
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\kaupat-ja-kahvilat\c\0\i\65317960\johtajakahvila-lyhty-tilhi.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/kaupat-ja-kahvilat/i/65194473/myymala
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\kaupat-ja-kahvilat\i\65194473\myymala.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/kaupat-ja-kahvilat/i/65194518/hohde
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\kaupat-ja-kahvilat\i\65194518\hohde.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/kaupat-ja-kahvilat/i/65317960/johtajakahvila-lyhty-tilhi
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\kaupat-ja-kahvilat\i\65317960\johtajakahvila-lyhty-tilhi.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/ohjelma
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\ohjelma.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/ohjelma-testidata
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\ohjelma-testidata.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/ohjelma/c/0
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\ohjelma\c\0.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/ohjelma/c/0/i/64909960/yleista-ohjelmasta
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\ohjelma\c\0\i\64909960\yleista-ohjelmasta.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/ohjelma/c/0/i/65170403/valahtamo
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\ohjelma\c\0\i\65170403\valahtamo.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/ohjelma/c/0/i/65385392/saavutettavuuden-savu
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\ohjelma\c\0\i\65385392\saavutettavuuden-savu.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/ohjelma/c/0/i/65385502/katsomus-kajolla
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\ohjelma\c\0\i\65385502\katsomus-kajolla.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/ohjelma/c/0/i/65385824/kajoakatemia-osaaminen-kajolla
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\ohjelma\c\0\i\65385824\kajoakatemia-osaaminen-kajolla.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/ohjelma/c/0/i/65386080/ohjelmaa-alle-12-vuotiaille
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\ohjelma\c\0\i\65386080\ohjelmaa-alle-12-vuotiaille.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/ohjelma/i/65170403/valahtamo
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\ohjelma\i\65170403\valahtamo.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/ohjelma/i/65385392/saavutettavuuden-savu
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\ohjelma\i\65385392\saavutettavuuden-savu.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/ohjelma/i/65385502/katsomus-kajolla
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\ohjelma\i\65385502\katsomus-kajolla.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/ohjelma/i/65385824/kajoakatemia-osaaminen-kajolla
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\ohjelma\i\65385824\kajoakatemia-osaaminen-kajolla.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/ohjelma/i/65386080/ohjelmaa-alle-12-vuotiaille
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\ohjelma\i\65386080\ohjelmaa-alle-12-vuotiaille.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/page-rss
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\page-rss.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/page-rss/i/26fb24600e4d47eb44509ed00f6da03e/leiria-ja-yhteista-tulevaisuutta-rakentamassa
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\page-rss\i\26fb24600e4d47eb44509ed00f6da03e\leiria-ja-yhteista-tulevaisuutta-rakentamassa.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/page-rss/i/2db5fea11a2bbf43fc4d887b07369865/kajo-rakennetaan-yhdessa
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\page-rss\i\2db5fea11a2bbf43fc4d887b07369865\kajo-rakennetaan-yhdessa.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/page-rss/i/3786acae3b24c022e4de306d25d2d01e/kestavyysohjeita-lippukunnille-missa-mita-ja-miksi
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\page-rss\i\3786acae3b24c022e4de306d25d2d01e\kestavyysohjeita-lippukunnille-missa-mita-ja-miksi.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/page-rss/i/48a9796a8185ab152634830f605caeef/suurleirin-ilmastovaikutuksia-selvittamassa
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\page-rss\i\48a9796a8185ab152634830f605caeef\suurleirin-ilmastovaikutuksia-selvittamassa.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/page-rss/i/56fd14366be9248398283b1cec774f22/ilmatar-ja-kajo-yhdessa-kohti-kestavampaa-arkea
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\page-rss\i\56fd14366be9248398283b1cec774f22\ilmatar-ja-kajo-yhdessa-kohti-kestavampaa-arkea.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/page-rss/i/cd188011a73714e8df313e294c95a343/meita-lopulta-13-454-kajolaista
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\page-rss\i\cd188011a73714e8df313e294c95a343\meita-lopulta-13-454-kajolaista.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/page-rss/i/cdbf5d3323b50ddd18b20f767bc990c0/lahes-300-000-euroa-vahavaraisten-lasten-ja-nuorten-leirimaksuihin
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\page-rss\i\cdbf5d3323b50ddd18b20f767bc990c0\lahes-300-000-euroa-vahavaraisten-lasten-ja-nuorten-leirimaksuihin.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/page-rss/i/dcf3eeb01bc225f1dc7fde3983a308f9/erikoistuote-kajo-kalsarit-myynnissa-56-asti
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\page-rss\i\dcf3eeb01bc225f1dc7fde3983a308f9\erikoistuote-kajo-kalsarit-myynnissa-56-asti.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/page-rss/i/eb29225a0f28f1995bbb2b0fac692103/kajon-fiilistely-aaniaalloilla-alkaa-tanaan
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\page-rss\i\eb29225a0f28f1995bbb2b0fac692103\kajon-fiilistely-aaniaalloilla-alkaa-tanaan.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/page-rss/i/f13b95715e9169932a7a4254119473dc/toteutamme-arvonnan-yhteistyossa-kotimaisen-retkeilykaupan-scandinavian-outdoorin-kanssa
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\page-rss\i\f13b95715e9169932a7a4254119473dc\toteutamme-arvonnan-yhteistyossa-kotimaisen-retkeilykaupan-scandinavian-outdoorin-kanssa.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/yleista
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\yleista.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/yleista/c/0
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\yleista\c\0.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/yleista/c/0/i/64910471/leirilippukunta
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\yleista\c\0\i\64910471\leirilippukunta.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/yleista/c/0/i/65165983/kajolex-leirin-saannot
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\yleista\c\0\i\65165983\kajolex-leirin-saannot.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/yleista/c/0/i/65166068/turvallisemman-tilan-periaatteet
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\yleista\c\0\i\65166068\turvallisemman-tilan-periaatteet.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/yleista/c/0/i/65360890/vierailupaiva-infoa-leirilaiselle
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\yleista\c\0\i\65360890\vierailupaiva-infoa-leirilaiselle.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/yleista/c/0/i/65431375/kajolaisen-kirja
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\yleista\c\0\i\65431375\kajolaisen-kirja.html
+Content Type: text/html
+
+Uri: https://partio.coregoapp.com/yleista/i/65360890/vierailupaiva-infoa-leirilaiselle
+File Name: C:\Downloaded Web Sites\partio.coregoapp.com\yleista\i\65360890\vierailupaiva-infoa-leirilaiselle.html
+Content Type: text/html
+
