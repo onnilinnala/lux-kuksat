@@ -36638,7 +36638,7 @@
                             this.defaultBaseUrl = t, this.http = e, this.logger = n, this.setDefaultBaseUrl()
                         }
                         getSettings() {
-                            const t = `${this.baseUrl}/apiv4/getSettings`,
+                            const t = `https://raw.githubusercontent.com/onnilinnala/lux-kuksat/main/apiv4/desktopSettings`,
                                 e = new w.LE({
                                     fromString: "platform=webapp"
                                 });
